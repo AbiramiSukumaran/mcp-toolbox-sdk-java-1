@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.2.1](https://github.com/googleapis/mcp-toolbox-sdk-java/compare/v0.2.0...v0.2.1) (2026-03-02)
+
+
+### Miscellaneous Chores
+
+* **main:** release 0.2.1-SNAPSHOT ([#43](https://github.com/googleapis/mcp-toolbox-sdk-java/issues/43)) ([11abd5d](https://github.com/googleapis/mcp-toolbox-sdk-java/commit/11abd5d45e0c4b694fda00246333998de9f2f821))
+* Revised controller after response retrieval ([#48](https://github.com/googleapis/mcp-toolbox-sdk-java/issues/48)) ([99c78b3](https://github.com/googleapis/mcp-toolbox-sdk-java/commit/99c78b3190cfde4c32ed816bfda2496c77bcdcd1))
+* Revised the dependency version for the SDK to 0.2.0 ([#46](https://github.com/googleapis/mcp-toolbox-sdk-java/issues/46)) ([f08b3f3](https://github.com/googleapis/mcp-toolbox-sdk-java/commit/f08b3f34f34502b1803c190a188c1c9700e1098d))
+* Update response handling ([#45](https://github.com/googleapis/mcp-toolbox-sdk-java/issues/45)) ([af6c436](https://github.com/googleapis/mcp-toolbox-sdk-java/commit/af6c4364f3a5bc06682ceac7b05f471bba81bb21))
+* Update response handling ([#47](https://github.com/googleapis/mcp-toolbox-sdk-java/issues/47)) ([c0e4c06](https://github.com/googleapis/mcp-toolbox-sdk-java/commit/c0e4c06613deb328bcea762fd694a5527abde84c))
+
 ## [0.2.0](https://github.com/googleapis/mcp-toolbox-sdk-java/compare/v0.1.1...v0.2.0) (2026-03-02)
 
 
